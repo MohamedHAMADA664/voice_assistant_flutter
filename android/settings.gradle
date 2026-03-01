@@ -1,1 +1,3 @@
 
+rootProject.name = 'voice_assistant_flutter'
+include ':app'
